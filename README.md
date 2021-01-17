@@ -1,4 +1,3 @@
-# Personal_Website
 Repo that links my custom domain to my various projects.
 Thanks for stopping by!
 
